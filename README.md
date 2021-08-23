@@ -1,4 +1,4 @@
 # Infinity_Labs
-Infinity Labs R&amp;D
+Infinity Labs R&D
 
-Projects from the Infinity Labs Bootcamp
+Projects made during my study at the Infinity Labs R&D Bootcamp.
